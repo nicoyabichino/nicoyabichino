@@ -22,3 +22,7 @@ React | NodeJS | Javascript | Express | Redux | Angular | NodeMailer | SweetAler
 📫 Cómo contactarme? : nicoyabichino@gmail.com
 
 
+Mis Proyectos son: 
+https://github.com/nicoyabichino/Pokemon-PI
+https://github.com/EmaSchonborn/FE-GamerTech
+https://github.com/EmaSchonborn/FE-ConnTech
