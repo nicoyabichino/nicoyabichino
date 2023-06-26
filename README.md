@@ -24,7 +24,8 @@ React | NodeJS | Javascript | Express | Redux | Angular | NodeMailer | SweetAler
 
 Mis Proyectos son:
 
-<img href = "https://github.com/nicoyabichino/nicoyabichino/assets/89562667/9c1160bc-b8ef-42ce-a5f4-633be2438bad"></img>
+
+<img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/9c1160bc-b8ef-42ce-a5f4-633be2438bad" alt="Loading.." />
 https://github.com/nicoyabichino/Pokemon-PI
 
 https://github.com/EmaSchonborn/FE-GamerTech
