@@ -47,9 +47,16 @@ Trabaje en equipo cobre el flujo de compra con integracion de pasarelas de pago<
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/6e2a6539-ab17-4935-8148-96549b467532" alt="Imagen 2" style="width: 50%;" />
 </div>
   <h3>Repo:  https://github.com/EmaSchonborn/FE-GamerTech</h3>
+  <h3>Link Deploy:  https://your-gammer-tech.vercel.app/</h3>
 </div>
 <br />
+<div>
+  <h1>Proyecto Final: Applicacion para ofrecer y/o buscar trabajo, un lugar donde puedes registrarte como usuario que busca trabajo, empresa que ofrece trabajo o ambos!, por motivos de tiempo y complejidad no llegamos a termianrlo pero pensamos hacerlo!:</h1>
+  <div style="display: flex;">
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/c9157182-dc3a-4c85-8fc0-ba9332ba6ef8" alt="Imagen 1" style="width: 50%;" />
+</div>
+  <h3>Repo:  https://github.com/EmaSchonborn/FE-ConnTech</h3>
+  <h3>Link Deploy:  https://conntech.netlify.app/</h3>
+</div>
 
-<img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/c9157182-dc3a-4c85-8fc0-ba9332ba6ef8" alt="Loading.." />
-https://github.com/EmaSchonborn/FE-ConnTech
 
