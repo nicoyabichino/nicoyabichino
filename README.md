@@ -25,7 +25,7 @@ React | NodeJS | Javascript | Express | Redux | Angular | NodeMailer | SweetAler
 Mis Proyectos son:
 
 <div>
-  <h1>Proyecto Individual con tematica de Pokemons:</h1>
+  <h1>## ⦿ Proyecto Individual con tematica de Pokemons:</h1>
   <h2>Confeccione esta aplicacion usando React, PostgreSQL, Css puro</h2>
   <div style="display: flex;">
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/9c1160bc-b8ef-42ce-a5f4-633be2438bad" alt="Imagen 1" style="width: 50%;" />
