@@ -27,7 +27,10 @@ Mis Proyectos son:
 <div>
   <h1>Proyecto Individual con tematica de Pokemons:</h1>
   <h2>Confeccione esta aplicacion usando React, PostgreSQL, Css puro</h2>
-<img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/9c1160bc-b8ef-42ce-a5f4-633be2438bad" alt="Loading.." />
+  <div style="display: flex;">
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/9c1160bc-b8ef-42ce-a5f4-633be2438bad" alt="Imagen 1" style="width: 50%;" />
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/2422eeda-283b-4f29-ba92-c26a0980e227" alt="Imagen 2" style="width: 50%;" />
+</div>
 https://github.com/nicoyabichino/Pokemon-PI
 </div>
 <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/baec83fa-675d-4fe6-aa73-116da245daeb" alt="Loading.." />
