@@ -35,8 +35,21 @@ Mis Proyectos son:
   <h3>Repo:  https://github.com/nicoyabichino/Pokemon-PI</h3>
 </div>
 <br />
-<img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/baec83fa-675d-4fe6-aa73-116da245daeb" alt="Loading.." />
-https://github.com/EmaSchonborn/FE-GamerTech
+<div>
+  <h1>Proyecto Final: Ecommerce de venta de productos tecnologicos orientados principalmente a la comunidad Gamer:</h1>
+  <h2>Me encargue del desarrollo completo del carrito de compras.
+Me encargue de la integracion de NodeMailer, SweetAlert, Tailwind, componente de registro, detalle de producto.
+Trabaje en equipo cobre el flujo de compra con integracion de pasarelas de pago</h2>
+  <div style="display: flex;">
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/baec83fa-675d-4fe6-aa73-116da245daeb" alt="Imagen 1" style="width: 50%;" />
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/1cccccfd-a4fb-4e23-8cfc-25ddbabc823f" alt="Imagen 2" style="width: 50%;" />
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/d7ad2d52-c50e-4e0e-b19a-c778bd2f50ba" alt="Imagen 2" style="width: 50%;" />
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/6e2a6539-ab17-4935-8148-96549b467532" alt="Imagen 2" style="width: 50%;" />
+</div>
+  <h3>Repo:  https://github.com/EmaSchonborn/FE-GamerTech</h3>
+</div>
+<br />
+
 <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/c9157182-dc3a-4c85-8fc0-ba9332ba6ef8" alt="Loading.." />
 https://github.com/EmaSchonborn/FE-ConnTech
 
