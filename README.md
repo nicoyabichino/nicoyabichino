@@ -32,7 +32,7 @@ Mis Proyectos son:
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/2422eeda-283b-4f29-ba92-c26a0980e227" alt="Imagen 2" style="width: 50%;" />
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/a83064ee-ef8b-4afa-b135-1fe295f3fac9" alt="Imagen 2" style="width: 50%;" />
 </div>
-  <h3>Repo:https: //github.com/nicoyabichino/Pokemon-PI</h3>
+  <h3>Repo:  https://github.com/nicoyabichino/Pokemon-PI</h3>
 </div>
 <br />
 <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/baec83fa-675d-4fe6-aa73-116da245daeb" alt="Loading.." />
