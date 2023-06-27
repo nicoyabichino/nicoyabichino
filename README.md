@@ -22,7 +22,7 @@ React | NodeJS | Javascript | Express | Redux | Angular | NodeMailer | SweetAler
 📫 Cómo contactarme? : nicoyabichino@gmail.com
 
 
-<h1>🔭 Mis proyectos y colaboraciones:</h1>
+<h4>🔭 Mis proyectos y colaboraciones:</h4>
 
 <div>
   <h1>⦿ Proyecto Individual con tematica de Pokemons:</h1>
