@@ -39,7 +39,7 @@ Mis Proyectos son:
   <h1>Proyecto Final: Ecommerce de venta de productos tecnologicos orientados principalmente a la comunidad Gamer:</h1>
   <h2>Me encargue del desarrollo completo del carrito de compras.
 Me encargue de la integracion de NodeMailer, SweetAlert, Tailwind, componente de registro, detalle de producto.
-Trabaje en equipo cobre el flujo de compra con integracion de pasarelas de pago</h2>
+Trabaje en equipo sobre el flujo de compra con integracion de pasarelas de pago</h2>
   <div style="display: flex;">
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/baec83fa-675d-4fe6-aa73-116da245daeb" alt="Imagen 1" style="width: 50%;" />
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/1cccccfd-a4fb-4e23-8cfc-25ddbabc823f" alt="Imagen 2" style="width: 50%;" />
