@@ -25,7 +25,7 @@ React | NodeJS | Javascript | Express | Redux | Angular | NodeMailer | SweetAler
 Mis Proyectos son:
 
 <div>
-  <h1>## ⦿ Proyecto Individual con tematica de Pokemons:</h1>
+  <h1>⦿ Proyecto Individual con tematica de Pokemons:</h1>
   <h2>Confeccione esta aplicacion usando React, PostgreSQL, Css puro</h2>
   <div style="display: flex;">
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/9c1160bc-b8ef-42ce-a5f4-633be2438bad" alt="Imagen 1" style="width: 50%;" />
@@ -36,7 +36,7 @@ Mis Proyectos son:
 </div>
 <br />
 <div>
-  <h1>Proyecto Final: Ecommerce de venta de productos tecnologicos orientados principalmente a la comunidad Gamer:</h1>
+  <h1>⦿ Proyecto Final: Ecommerce de venta de productos tecnologicos orientados principalmente a la comunidad Gamer:</h1>
   <h2>Me encargue del desarrollo completo del carrito de compras.
 Me encargue de la integracion de NodeMailer, SweetAlert, Tailwind, componente de registro, detalle de producto.
 Trabaje en equipo sobre el flujo de compra con integracion de pasarelas de pago</h2>
@@ -51,7 +51,7 @@ Trabaje en equipo sobre el flujo de compra con integracion de pasarelas de pago<
 </div>
 <br />
 <div>
-  <h1>Proyecto Final: Applicacion para ofrecer y/o buscar trabajo, un lugar donde puedes registrarte como usuario que busca trabajo, empresa que ofrece trabajo o ambos!, por motivos de tiempo y complejidad no llegamos a termianrlo pero pensamos hacerlo!:</h1>
+  <h1>⦿ Proyecto Final: Applicacion para ofrecer y/o buscar trabajo, un lugar donde puedes registrarte como usuario que busca trabajo, empresa que ofrece trabajo o ambos!, por motivos de tiempo y complejidad no llegamos a termianrlo pero pensamos hacerlo!:</h1>
   <div style="display: flex;">
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/c9157182-dc3a-4c85-8fc0-ba9332ba6ef8" alt="Imagen 1" style="width: 50%;" />
 </div>
