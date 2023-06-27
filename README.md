@@ -30,9 +30,11 @@ Mis Proyectos son:
   <div style="display: flex;">
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/9c1160bc-b8ef-42ce-a5f4-633be2438bad" alt="Imagen 1" style="width: 50%;" />
   <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/2422eeda-283b-4f29-ba92-c26a0980e227" alt="Imagen 2" style="width: 50%;" />
+  <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/a83064ee-ef8b-4afa-b135-1fe295f3fac9" alt="Imagen 2" style="width: 50%;" />
 </div>
-https://github.com/nicoyabichino/Pokemon-PI
+  <h3>Repo:https: //github.com/nicoyabichino/Pokemon-PI</h3>
 </div>
+<br />
 <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/baec83fa-675d-4fe6-aa73-116da245daeb" alt="Loading.." />
 https://github.com/EmaSchonborn/FE-GamerTech
 <img src="https://github.com/nicoyabichino/nicoyabichino/assets/89562667/c9157182-dc3a-4c85-8fc0-ba9332ba6ef8" alt="Loading.." />
